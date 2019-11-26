@@ -1,6 +1,8 @@
 let mapleader =" "
 
-call plug#begin('C:\Users\joshd\AppData\Local\nvim\autoload\')
+"'C:\Users\joshd\AppData\Local\nvim\autoload\'
+
+call plug#begin()
 Plug 'sheerun/vim-polyglot'
 Plug 'tpope/vim-fugitive'
 Plug 'bling/vim-airline'
